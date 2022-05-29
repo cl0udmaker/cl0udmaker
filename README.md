@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Edgar!
-- 👀 I’m interested in security,  ML and digital/physical boundary interception 
-- 🌱 I’m currently building Security ML team at Twitter to tacle big security challenges
-- 💞️ I’m looking to collaborate on [open to suggestions]
+- 👀 I’m interested in security, bitcoin and interception between digital and physical boundaries 
+- 🌱 I’m currently leading data security group at Twitter
+- 💞️ I’m looking to collaborate on bitcoin security projects 
 - 📫 How to reach me Twitter DM @cl0udmaker 
 
 <!---
